@@ -24,7 +24,6 @@ E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\DevCart.TagHelpers.input
 E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\DevCart.TagHelpers.output.cache
 E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\DevCart.RazorCoreGenerate.cache
 E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -38,3 +37,4 @@ E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\ref\DevCart.dll
 E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\DevCart.pdb
 E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\DevCart.genruntimeconfig.cache
 E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\DevCart.csproj.CopyComplete
+E:\testproject\NetCore\DevCart\DevCart\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
